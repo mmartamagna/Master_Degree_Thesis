@@ -10,6 +10,6 @@ This repository provides the codes implemented in the research project. Specific
 - _1. Data preparation.R_: data cleaning, data preparation, computation of composite measures
 - _2. Descriptive stats.R_: descriptive statistics, descriptive plots, outliers detection, correlation, non-parametric tests, box plots
 - _3. CFA. R_: survey reliability (Cronbach's Alpha), Confirmative Factor Analysis (CFA)
-- _4. Shiny Dashboard.R_:Shiny Dashboard code
+- _4. Shiny Dashboard.R_: Shiny Dashboard code
 
 ## Shiny Dashboard
