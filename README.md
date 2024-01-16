@@ -5,6 +5,10 @@ _Quantification of Workers’ Multidimensional Well-Being and Participation Leve
 * Degree course: M.Sc. Data Science and Economics (LM-91)
 * Università degli Studi di Milano
 
+![Brochure_tesi_1](https://github.com/mmartamagna/Master_Degree_Thesis/assets/87983033/82c72aa9-bdfb-4d45-b885-40cc9b475554)
+![Brochure_tesi_2](https://github.com/mmartamagna/Master_Degree_Thesis/assets/87983033/38286519-9f5e-4e74-ba4e-dee9c3940533)
+
+
 ## Repository content:
 This repository provides the codes implemented in the research project. Specifically:
 - _1. Data preparation.R_: data cleaning, data preparation, computation of composite measures
